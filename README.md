@@ -1,2 +1,2 @@
-# Python Mundo 1
- Exercícios de Python
+# Exercícios de Python
+ Exercícios de Python do CURSO em VIDEO
