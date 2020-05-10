@@ -1,4 +1,3 @@
-n1 = int(input('Digite um número: '))
-n2 = int(input('Digite outro número: '))
-s = n1+n2
-print ('A soma vale', s)
+n1 = int(input('Digite um valor: '))
+n2 = int(input('Digite outro valor: '))
+print ('A soma vale {}'.format (n1+n2))
